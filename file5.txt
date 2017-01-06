@@ -1,1 +1,4 @@
-ECHO �w�ҰʡC
+﻿ECHO 已啟動。
+
+
+update something 14:19
