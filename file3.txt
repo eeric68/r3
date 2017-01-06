@@ -1,4 +1,7 @@
 ﻿ECHO 已啟動。
 
+file3
+HELLO 14:59
+
 file3___HELLO!!
 15:00
