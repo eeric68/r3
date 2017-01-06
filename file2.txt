@@ -1,1 +1,5 @@
-ECHO �w�ҰʡC
+﻿ECHO 已啟動。
+
+
+Add branch test1
+15:12
